@@ -1,0 +1,4 @@
+File of Duy
+c
+dcd
+C:\Test_Cloud\MyFirstRepo>git -v
